@@ -1,0 +1,7 @@
+*.iobj
+*.ipdb
+
+*Release
+*Debug
+x64
+fastrak.mexw64
